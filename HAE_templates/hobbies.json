@@ -1,0 +1,138 @@
+{
+   "Instruments":[
+        {
+            "assetId": "fed2fac6be1a4e0ea225bd9001e88a79",
+            "id": "Violin"
+        },
+        {
+            "assetId": "14e8dde4f70548a0b51b0b680f839d99",
+            "id": "Saxophone"
+        },
+        {
+            "assetId": "4111d807929b4365baa86fed62aaa275",
+            "id": "ForkGuitar"
+        },
+        {
+            "assetId": "152fc86e9ec243a6ba6762ec896621a0",
+            "id": "Ukulele"
+        },
+        {
+            "assetId": "d75216a52ff14a56aa40b6fec844ecd2",
+            "id": "ElectricGuitar"
+        }
+    ],
+   "Game":[
+    {
+        "assetId": "0ae80019e6f046168923286d7e628f6f",
+        "id": "GameBoyClassic"
+    },
+    {
+        "assetId": "360d1229658c4f0daf6d148fc90c32c4",
+        "id": "GameboyAdvance"
+    },
+    {
+        "assetId": "fdeffafacb124fbc92db95f7beedfdfd",
+        "id": "NintendoSwitch"
+    },
+    {
+        "assetId": "ad38f32d51bf41a3bba7b0c9ea941533",
+        "id": "PSP"
+    }
+   ],
+   "Puzzle":[
+        {
+            "assetId": "ef4e6aa0804243688dae1877696ab10e",
+            "id": "RubikCube"
+        }
+    ],
+    "BoardGame":[
+        {
+            "assetId": "7cd9122039d3489c96f3d4e405050d62",
+            "id": "TicketToRideBoardGameBox"
+        },
+        {
+            "assetId": "d7da09568b014912b683efc800091dfb",
+            "id": "CheckersBoardGame"
+        },
+        {
+            "assetId": "9660e0c0326b4f7386014e27717231ae",
+            "id": "TrumpCards"
+        },
+        {
+            "assetId": "068525be5e4e44aaa10d34c01f72f545",
+            "id": "ChinessChessBoardGame"
+        },
+        {
+            "assetId": "84c113fd7225428c8aa8db4f28563b2c",
+            "id": "ChessBoard"
+        }
+    ],
+    "Drawing":[
+        {
+            "assetId": "de6558d4d2264db08f0565cec5229087",
+            "id": "DrawingTablet"
+        }
+    ],
+   "PhoneCall":[
+    {
+        "assetId": "Cellphone_4",
+        "id": "iPhone"
+    }
+   ],
+   "Sports":[
+    {
+        "assetId": "BaseballBat_1",
+        "id": "BaseballBat"
+    },
+    {
+        "assetId": "RoboTHOR_basketball_rhode_island_novelty_v",
+        "id": "BaseballBat"
+    },
+    {
+        "assetId": "Tennis_Racquet_4",
+        "id": "TennisRacquet"
+    },
+    {
+        "assetId": "6ae0871c4cb3436db8ba214fd7707553",
+        "id": "GolfClub"
+    },
+    {
+        "assetId": "e393be9a47a24a7cae6142e13f5686d1",
+        "id": "SoccerBall"
+    },
+    {
+        "assetId": "c78df29082d94dfbba667101d748e924",
+        "id": "AmericanFootball"
+    },
+    {
+        "assetId":"a6c1b348e99b4715aa8776895c89c6ac",
+        "id":"HockeyStick"
+    },
+    {
+        "assetId":"43b9952b39d14295bfcc357786092c51",
+        "id":"BowlingBall"
+    },
+    {
+        "assetId":"2531d5a1d03f46e0a0dbc5d9fd1e416f",
+        "id":"TableTennisRacquet"
+    }
+    ],
+   "Reading":[
+    {
+        "assetId": "b59fa77caa1043e9bf13424d607c1434",
+        "id": "Comicbook"
+    },
+    {
+        "assetId": "a26f670dd9f048b28ec5eabcca4900e3",
+        "id": "SFNovel"
+    },
+    {
+        "assetId": "ff150ae5753046f596fbc9ce73e0f290",
+        "id": "PoemBook"
+    },
+    {
+        "assetId": "f5faf2e2e48a42b8b79e3fe644f75d91",
+        "id": "Book"
+    }
+   ]
+}

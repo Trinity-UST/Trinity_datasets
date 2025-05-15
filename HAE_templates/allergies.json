@@ -1,0 +1,298 @@
+{
+   "Nuts":{
+    "negative_food":[
+        {
+            "assetId": "7c3e6bcb60ed47ffa91bf823c68f36b9",
+            "id": "AlmondButterJar"
+        },
+        {
+            "assetId": "8cae4836dee146a3bf514df559a02fbd",
+            "id": "AlmondCroissant"
+        },
+        {
+            "assetId": "dee1ea44d01147a786280b7fa2a4305e",
+            "id": "ChestNut"
+        },
+        {
+            "assetId": "993109a574ba46d786ffc467963baed3",
+            "id": "PeanutBox"
+        },
+        {
+            "assetId": "686c71ef72f04b50aa522325651e3222",
+            "id": "PeanutButterJar"
+        },
+        {
+            "assetId": "993109a574ba46d786ffc467963baed3",
+            "id": "PeanutCan"
+        },
+        {
+            "assetId": "26e8bf806c4c4d9fa58fdff3e33d26c8",
+            "id": "NutsPie"
+        }
+    ],
+    "negative_drink":[]
+   },
+   "Fish":{
+    "negative_food":[
+        {
+            "assetId": "0bde65b53e054946be9e6b31e5193ae3",
+            "id": "BakedPacificSaury"
+        },
+        {
+            "assetId": "083ff96cb80043e2847a95675c2986d0",
+            "id": "MackerelCanned"
+        },
+        {
+            "assetId": "23b173f04ffe4e48b1eb1c0566d7ab75",
+            "id": "SalmonCanned"
+        },
+        {
+            "assetId": "ad982e9e808542249809f55f3c1df657",
+            "id": "TunnaCanned"
+        },
+        {
+            "assetId": "c7085eba6e204c9ea3b45e8bec7a82ad",
+            "id": "SashimiShirimpTunaRedSnapper"
+        }
+    ],
+    "negative_drink":[]
+   },
+   "Shellfish":{
+    "negative_food":[
+        {
+            "assetId": "2088b8a02ecc41df8f282d20b41bb288",
+            "id": "OctopusSalad"
+        },
+        {
+            "assetId": "571cce9dd5754e87a71d1295632fbfa6",
+            "id": "GalicShirimpWithCornsBowl"
+        },
+        {
+            "assetId": "4256cb215da54681bc63b2742be119be",
+            "id": "RawOysters"
+        },
+        {
+            "assetId": "c7085eba6e204c9ea3b45e8bec7a82ad",
+            "id": "SashimiShirimpTunaRedSnapper"
+        }
+    ],
+    "negative_drink":[]
+   },
+   "Meat":{
+    "negative_food":[
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "953ec99e510542b489d4cce969a83d43",
+            "id": "BeefPattyCheeseBurger"
+        },
+        {
+            "assetId": "925577b90bd74ef08f41f22d2a357e63",
+            "id": "BeefSteak"
+        },
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "a166087409db4c59b3d35fceff17a8c5",
+            "id": "ChickenBreastCan"
+        },
+        {
+            "assetId": "0bce27dab9a3497587c27c5324a6ddd3",
+            "id": "FriedChickenLeg"
+        },
+        {
+            "assetId": "a15dfe55dd964f728050a0c1aeab6447",
+            "id": "McNugget"
+        },
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        }
+    ],
+    "negative_drink":[]
+   },
+   "Nitrite":{
+    "negative_food":[
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "a166087409db4c59b3d35fceff17a8c5",
+            "id": "ChickenBreastCan"
+        },
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        }
+    ],
+    "negative_drink":[]
+   },
+   "Surfite":{
+    "negative_food":[],
+    "negative_drink":[
+        {
+            "assetId": "Wine_Bottle_1",
+            "id": "WineBottle"
+        },
+        {
+            "assetId": "fe2a9ebd2b0f46c1aae999c4d1f1a5eb",
+            "id": "ASAHISuperDryBeerCan"
+        },
+        {
+            "assetId": "97eeb4e6a10345c4acc2020e5bab950c",
+            "id": "AleBottle"
+        },
+        {
+            "assetId": "299ed84be8904bacaf63fa90c8a5fa8d",
+            "id": "HeinekenBeerBottle"
+        },
+        {
+            "assetId": "b9616981f2a54dacb38d3c45b81f32c3",
+            "id": "StealaBeerBottle"
+        },
+        {
+            "assetId": "889970a5e501487383937c8033d0e5d1",
+            "id": "KrinIchibanBeerCan"
+        }
+    ]
+   },
+   "Caffeine":{
+    "negative_food":[],
+    "negative_drink":[
+        {
+            "assetId": "bdc90a278c774ef19c9e86c7044ed43f",
+            "id": "AmericanoCup"
+        },
+        {
+            "assetId": "28595965ddbe4ff38481bcd284fdbabd",
+            "id": "EspressoMonsterEnergyDrinkCan"
+        },
+        {
+            "assetId": "0344e4be3f9f47db808d48558bfdc1f4",
+            "id": "BubbleTeaIced"
+        },
+        {
+            "assetId": "6af1546dc1154a098299b3e3585cb79a",
+            "id": "GreenTeaLatte"
+        },
+        {
+            "assetId": "b7859b4980a840248db03df22799a962",
+            "id": "FlatWhiteLattee"
+        },
+        {
+            "assetId": "0364ab96f338493c972248102b462aa4",
+            "id": "CokeCan"
+        },
+        {
+            "assetId": "2a29aa47ffd74b6395d07cd270db4735",
+            "id": "RedBullEnergyDrinkCan"
+        },
+        {
+            "assetId": "201ec5e300bb4d44870115266934ffe5",
+            "id": "MonsterEngeryDrinkCan"
+        },
+        {
+            "assetId": "0eaaa5f3455b41818ee568a8f58ed9e9",
+            "id": "DrPepperSodaCan"
+        },
+        {
+            "assetId": "2207d819222048708c9657c544660d68",
+            "id": "MountainDewSodaCan"
+        }
+    ]
+   },
+   "Alcohol":{
+    "negative_food":[],
+    "negative_drink":[
+        {
+            "assetId": "c6965821804a4ccca00975d98baa8926",
+            "id": "JackDanielsWhiskeyBottle"
+        },
+        {
+            "assetId": "5e125327498949a59bcc3d0e6998f5aa",
+            "id": "WhiteHourseWhiskey"
+        },
+        {
+            "assetId": "a04d98062ac8436b8a7963afdedc0e99",
+            "id": "BallantinesWhiskeyBottle"
+        },
+        {
+            "assetId": "bd7d993037a9473e99d380944c7bf5a1",
+            "id": "VodkaBottle"
+        },
+        {
+            "assetId": "299ed84be8904bacaf63fa90c8a5fa8d",
+            "id": "HeinekenBeerBottle"
+        },
+        {
+            "assetId": "f755e3f9e9e64c8db5ba49b0c821bf36",
+            "id": "RumBottle"
+        },
+        {
+            "assetId": "c892e540ba3f40c3aaf7834240325698",
+            "id": "BombaySapphireJinBottle"
+        },
+        {
+            "assetId": "01fd2887e7e143528647817323f7701e",
+            "id": "BrandyBottle"
+        },
+        {
+            "assetId": "0150d365448347dd9afcafe27fd7c2a1",
+            "id": "SakeBottle"
+        },
+        {
+            "assetId": "1ab7279669fa44be8e74e6c75a64819b",
+            "id": "MakersMarkWhiskeyBottle"
+        },
+        {
+            "assetId": "92aafdcc30124d769d3ad400fe8c77b7",
+            "id": "TurnbullsScotchWhiskeyBottle"
+        },
+        {
+            "assetId": "fe2a9ebd2b0f46c1aae999c4d1f1a5eb",
+            "id": "ASAHISuperDryBeerCan"
+        },
+        {
+            "assetId": "Wine_Bottle_1",
+            "id": "WineBottle"
+        },
+        {
+            "assetId": "97eeb4e6a10345c4acc2020e5bab950c",
+            "id": "AleBottle"
+        },
+        {
+            "assetId": "b9616981f2a54dacb38d3c45b81f32c3",
+            "id": "StealaBeerBottle"
+        },
+        {
+            "assetId": "889970a5e501487383937c8033d0e5d1",
+            "id": "KrinIchibanBeerCan"
+        }
+    ]
+   }
+}

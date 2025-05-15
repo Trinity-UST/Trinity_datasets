@@ -1,0 +1,144 @@
+{
+   "Islam":{
+    "negative_food":[
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "ef7b406812ff44dca514eb7e2a7627d0",
+            "id": "Pizza"
+        }
+    ],
+    "negative_drink":[
+        {
+            "assetId": "c6965821804a4ccca00975d98baa8926",
+            "id": "JackDanielsWhiskeyBottle"
+        },
+        {
+            "assetId": "5e125327498949a59bcc3d0e6998f5aa",
+            "id": "WhiteHourseWhiskey"
+        },
+        {
+            "assetId": "a04d98062ac8436b8a7963afdedc0e99",
+            "id": "BallantinesWhiskeyBottle"
+        },
+        {
+            "assetId": "bd7d993037a9473e99d380944c7bf5a1",
+            "id": "VodkaBottle"
+        },
+        {
+            "assetId": "299ed84be8904bacaf63fa90c8a5fa8d",
+            "id": "HeinekenBeerBottle"
+        },
+        {
+            "assetId": "f755e3f9e9e64c8db5ba49b0c821bf36",
+            "id": "RumBottle"
+        },
+        {
+            "assetId": "c892e540ba3f40c3aaf7834240325698",
+            "id": "BombaySapphireJinBottle"
+        },
+        {
+            "assetId": "01fd2887e7e143528647817323f7701e",
+            "id": "BrandyBottle"
+        },
+        {
+            "assetId": "0150d365448347dd9afcafe27fd7c2a1",
+            "id": "SakeBottle"
+        },
+        {
+            "assetId": "1ab7279669fa44be8e74e6c75a64819b",
+            "id": "MakersMarkWhiskeyBottle"
+        },
+        {
+            "assetId": "92aafdcc30124d769d3ad400fe8c77b7",
+            "id": "TurnbullsScotchWhiskeyBottle"
+        },
+        {
+            "assetId": "fe2a9ebd2b0f46c1aae999c4d1f1a5eb",
+            "id": "ASAHISuperDryBeerCan"
+        },
+        {
+            "assetId": "Wine_Bottle_1",
+            "id": "WineBottle"
+        },
+        {
+            "assetId": "97eeb4e6a10345c4acc2020e5bab950c",
+            "id": "AleBottle"
+        },
+        {
+            "assetId": "b9616981f2a54dacb38d3c45b81f32c3",
+            "id": "StealaBeerBottle"
+        },
+        {
+            "assetId": "889970a5e501487383937c8033d0e5d1",
+            "id": "KrinIchibanBeerCan"
+        }
+    ]
+    },
+    "Hinduism":{
+    "negative_food":[
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "925577b90bd74ef08f41f22d2a357e63",
+            "id": "BeefSteak"
+        },
+        {
+            "assetId": "953ec99e510542b489d4cce969a83d43",
+            "id": "BeefPattyCheeseBurger"
+        }
+    ],
+    "negative_drink":[
+    ]
+    },
+    "Judaism":{
+    "negative_food":[
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        },
+        {
+            "assetId": "c7085eba6e204c9ea3b45e8bec7a82ad",
+            "id": "SashimiShirimpTunaRedSnapper"
+        },
+        {
+            "assetId": "571cce9dd5754e87a71d1295632fbfa6",
+            "id": "GalicShirimpWithCornsBowl"
+        },
+        {
+            "assetId": "2088b8a02ecc41df8f282d20b41bb288",
+            "id": "OctopusSalad"
+        },
+        {
+            "assetId": "4256cb215da54681bc63b2742be119be",
+            "id": "RawOysters"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        }
+    ],
+    "negative_drink":[
+    ]
+    }
+}

@@ -1,0 +1,924 @@
+{
+    "rooms": [
+        {
+            "id": "room|2",
+            "roomType": "LivingRoom",
+            "children": [],
+            "ceilings": [],
+            "floorPolygon": [
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 0.0
+                }
+            ],
+            "floorMaterial": {
+                "name": "TexturesCom_WoodFine0031_1_seamless_S"
+            }
+        }
+    ],
+    "walls": [
+        {
+            "id": "wall|2|0.00|0.00|0.00|8.13",
+            "roomId": "room|2",
+            "polygon": [
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                }
+            ],
+            "color": {
+                "r": 0.9137254901960784,
+                "g": 0.8941176470588236,
+                "b": 0.8549019607843137
+            },
+            "material": {
+                "name": "PureWhite",
+                "color": {
+                    "r": 0.9137254901960784,
+                    "g": 0.8941176470588236,
+                    "b": 0.8549019607843137
+                }
+            }
+        },
+        {
+            "id": "wall|2|0.00|8.13|6.10|8.13",
+            "roomId": "room|2",
+            "polygon": [
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                }
+            ],
+            "color": {
+                "r": 0.9137254901960784,
+                "g": 0.8941176470588236,
+                "b": 0.8549019607843137
+            },
+            "material": {
+                "name": "PureWhite",
+                "color": {
+                    "r": 0.9137254901960784,
+                    "g": 0.8941176470588236,
+                    "b": 0.8549019607843137
+                }
+            }
+        },
+        {
+            "id": "wall|2|6.10|0.00|6.10|8.13",
+            "roomId": "room|2",
+            "polygon": [
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                }
+            ],
+            "color": {
+                "r": 0.9137254901960784,
+                "g": 0.8941176470588236,
+                "b": 0.8549019607843137
+            },
+            "material": {
+                "name": "PureWhite",
+                "color": {
+                    "r": 0.9137254901960784,
+                    "g": 0.8941176470588236,
+                    "b": 0.8549019607843137
+                }
+            }
+        },
+        {
+            "id": "wall|2|0.00|0.00|6.10|0.00",
+            "roomId": "room|2",
+            "polygon": [
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                }
+            ],
+            "color": {
+                "r": 0.9137254901960784,
+                "g": 0.8941176470588236,
+                "b": 0.8549019607843137
+            },
+            "material": {
+                "name": "PureWhite",
+                "color": {
+                    "r": 0.9137254901960784,
+                    "g": 0.8941176470588236,
+                    "b": 0.8549019607843137
+                }
+            }
+        },
+        {
+            "id": "wall|exterior|0.00|0.00|6.10|0.00",
+            "polygon": [
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 0.0
+                }
+            ],
+            "roomId": "exterior",
+            "material": {
+                "name": "ConcreteFloorSmooth 1"
+            }
+        },
+        {
+            "id": "wall|exterior|6.10|0.00|6.10|8.13",
+            "polygon": [
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 0.0
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 8.131
+                }
+            ],
+            "roomId": "exterior",
+            "material": {
+                "name": "ConcreteFloorSmooth 1"
+            }
+        },
+        {
+            "id": "wall|exterior|0.00|8.13|6.10|8.13",
+            "polygon": [
+                {
+                    "x": 6.098,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 6.098,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 8.131
+                }
+            ],
+            "roomId": "exterior",
+            "material": {
+                "name": "ConcreteFloorSmooth 1"
+            }
+        },
+        {
+            "id": "wall|exterior|0.00|0.00|0.00|8.13",
+            "polygon": [
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 3.5220145775356633,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 8.131
+                },
+                {
+                    "x": 0.0,
+                    "y": 0,
+                    "z": 0.0
+                }
+            ],
+            "roomId": "exterior",
+            "material": {
+                "name": "ConcreteFloorSmooth 1"
+            }
+        }
+    ],
+    "objects": [
+        {
+            "id": "TVStand|2|0|0",
+            "position": {
+                "x": 5.091949627876282,
+                "y": 0.351932168006897,
+                "z": 0.4718618631362914
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0.0,
+                "z": 0
+            },
+            "assetId": "TV_Stand_202_1",
+            "kinematic": true,
+            "children": [
+                {
+                    "id": "Television|2|0|2",
+                    "position": {
+                        "x": 5.091949627876282,
+                        "y": 1.1344433426856995,
+                        "z": 0.4718618631362914
+                    },
+                    "rotation": {
+                        "x": 0,
+                        "y": 0.0,
+                        "z": 0
+                    },
+                    "assetId": "Television_2_1",
+                    "kinematic": true
+                },
+                {
+                    "id": "Bowl|surface|2|3",
+                    "assetId": "Bowl_12",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 4.640499114990234,
+                        "y": 0.8071965456008912,
+                        "z": 0.14227944612503052
+                    },
+                    "kinematic": false
+                }
+            ],
+            "material": null
+        },
+        {
+            "id": "Sofa|2|0|1",
+            "position": {
+                "x": 5.091949627876282,
+                "y": 0.4081636071205139,
+                "z": 3.583983347415924
+            },
+            "rotation": {
+                "x": 0,
+                "y": 180.0,
+                "z": 0
+            },
+            "assetId": "Sofa_207_4",
+            "kinematic": true,
+            "children": [
+                {
+                    "id": "Pillow|surface|2|2",
+                    "assetId": "pillow_14",
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 5.51899528503418,
+                        "y": 0.39668962359428406,
+                        "z": 3.3720624446868896
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Pencil|surface|2|7",
+                    "assetId": "Pencil_2",
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 4.907878875732422,
+                        "y": 0.3449687361717224,
+                        "z": 3.5261666774749756
+                    },
+                    "kinematic": false
+                }
+            ],
+            "material": null
+        },
+        {
+            "id": "DiningTable|2|1",
+            "position": {
+                "x": 2.630061033293054,
+                "y": 0.4587356150150299,
+                "z": 7.644041025400162
+            },
+            "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+            },
+            "assetId": "Dining_Table_23_3",
+            "kinematic": true,
+            "children": [
+                {
+                    "id": "Candle|surface|2|0",
+                    "assetId": "Candle_2",
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 2.6337616443634033,
+                        "y": 0.6187587976455688,
+                        "z": 7.559793472290039
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "DeskLamp|surface|2|1",
+                    "assetId": "Desk_Lamp_1",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 90.0000228881836,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.0906991958618164,
+                        "y": 1.0859935283660889,
+                        "z": 7.981927871704102
+                    },
+                    "kinematic": false,
+                    "isOn": false
+                },
+                {
+                    "id": "Plate|surface|2|6",
+                    "assetId": "Plate_12",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 90.0000228881836,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 2.6297619342803955,
+                        "y": 0.9844613552093506,
+                        "z": 7.526008605957031
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Pen|surface|2|10",
+                    "assetId": "Pen_4",
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 2.434518337249756,
+                        "y": 0.5404790639877319,
+                        "z": 7.553313255310059
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Box|surface|2|11",
+                    "assetId": "DecorativeBox1",
+                    "rotation": {
+                        "x": 0.0,
+                        "y": 180.0,
+                        "z": 0.0
+                    },
+                    "position": {
+                        "x": 2.833005428314209,
+                        "y": 0.6258162260055542,
+                        "z": 7.481846809387207
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Laptop|surface|2|12",
+                    "assetId": "Laptop_1",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 90.0000228881836,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 1.9382905960083008,
+                        "y": 0.9961120367050171,
+                        "z": 7.867865562438965
+                    },
+                    "kinematic": false,
+                    "openness": 0
+                },
+                {
+                    "id": "CellPhone|surface|2|14",
+                    "assetId": "Cellphone_2",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 90.0000228881836,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.3213562965393066,
+                        "y": 0.9756147146224976,
+                        "z": 7.297552108764648
+                    },
+                    "kinematic": false
+                }
+            ],
+            "material": null
+        },
+        {
+            "id": "Dresser|2|2",
+            "position": {
+                "x": 3.2632565462237615,
+                "y": 0.6449009776115417,
+                "z": 0.2511430025100708
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "assetId": "Dresser_220_1",
+            "kinematic": true,
+            "children": [
+                {
+                    "id": "Book|surface|2|4",
+                    "assetId": "Book_23",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 89.99998474121094,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.114257574081421,
+                        "y": 1.3090529441833496,
+                        "z": 0.13889698684215546
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Candle|surface|2|5",
+                    "assetId": "Candle_1",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 89.99998474121094,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 2.8162589073181152,
+                        "y": 1.3308359384536743,
+                        "z": 0.08271723985671997
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "Pen|surface|2|8",
+                    "assetId": "Pen_3",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 89.99998474121094,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.19989013671875,
+                        "y": 0.3984101414680481,
+                        "z": 0.396827757358551
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "CreditCard|surface|2|9",
+                    "assetId": "CreditCard_2",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 89.99998474121094,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.1934101581573486,
+                        "y": 0.3950096368789673,
+                        "z": 0.31033259630203247
+                    },
+                    "kinematic": false
+                },
+                {
+                    "id": "CellPhone|surface|2|13",
+                    "assetId": "Cellphone_1",
+                    "rotation": {
+                        "x": -0.0,
+                        "y": 89.99998474121094,
+                        "z": -0.0
+                    },
+                    "position": {
+                        "x": 3.113957405090332,
+                        "y": 1.343656587600708,
+                        "z": 0.36412346363067627
+                    },
+                    "kinematic": false
+                }
+            ],
+            "material": null
+        },
+        {
+            "id": "ArmChair|2|3",
+            "position": {
+                "x": 0.5426581144332886,
+                "y": 0.5063095688819885,
+                "z": 3.255127693048441
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "assetId": "ArmChair_216_1",
+            "kinematic": true,
+            "material": null
+        },
+        {
+            "id": "DogBed|2|4",
+            "position": {
+                "x": 2.5323163677790532,
+                "y": 0.08761724829673767,
+                "z": 2.6237917695443835
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "assetId": "Dog_Bed_1_2",
+            "kinematic": false,
+            "material": null
+        },
+        {
+            "id": "Cart|2|5",
+            "position": {
+                "x": 3.528869845688996,
+                "y": 0.6413500308990479,
+                "z": 5.328697123302249
+            },
+            "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+            },
+            "assetId": "Cart_1",
+            "kinematic": true,
+            "material": null
+        },
+        {
+            "id": "Painting|2|6",
+            "assetId": "Wall_Decor_Painting_1",
+            "position": {
+                "x": 6.077129514545202,
+                "y": 1.7143828552452427,
+                "z": 5.909805768806555
+            },
+            "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+            },
+            "kinematic": true,
+            "material": null
+        },
+        {
+            "id": "Painting|2|7",
+            "assetId": "Wall_Decor_Painting_2",
+            "position": {
+                "x": 1.039714046207631,
+                "y": 1.4168143618481763,
+                "z": 0.015293817147612573
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "kinematic": true,
+            "material": null
+        }
+    ],
+    "proceduralParameters": {
+        "floorColliderThickness": 1.0,
+        "receptacleHeight": 0.7,
+        "lights": [
+            {
+                "id": "DirectionalLight",
+                "position": {
+                    "x": 0.84,
+                    "y": 0.1855,
+                    "z": -1.09
+                },
+                "rotation": {
+                    "x": 66,
+                    "y": 75,
+                    "z": 0
+                },
+                "shadow": {
+                    "type": "Soft",
+                    "strength": 1,
+                    "normalBias": 0,
+                    "bias": 0,
+                    "nearPlane": 0.2,
+                    "resolution": "FromQualitySettings"
+                },
+                "type": "directional",
+                "intensity": 1,
+                "indirectMultiplier": 1.0,
+                "rgb": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0
+                }
+            },
+            {
+                "id": "light_2",
+                "type": "point",
+                "position": {
+                    "x": 3.049,
+                    "y": 3.322014577535663,
+                    "z": 4.0655
+                },
+                "intensity": 0.45,
+                "range": 15,
+                "rgb": {
+                    "r": 1.0,
+                    "g": 0.855,
+                    "b": 0.722
+                },
+                "shadow": {
+                    "type": "Soft",
+                    "strength": 1,
+                    "normalBias": 0,
+                    "bias": 0.05,
+                    "nearPlane": 0.2,
+                    "resolution": "FromQualitySettings"
+                }
+            }
+        ],
+        "reflections": [],
+        "ceilingMaterial": {
+            "name": "PureWhite",
+            "color": {
+                "r": 0.9137254901960784,
+                "g": 0.8941176470588236,
+                "b": 0.8549019607843137
+            }
+        },
+        "ceilingColor": {
+            "r": 0.9137254901960784,
+            "g": 0.8941176470588236,
+            "b": 0.8549019607843137
+        },
+        "skyboxId": "SkyAlbanyHill"
+    },
+    "doors": [
+        {
+            "id": "door|1|2",
+            "room0": "room|2",
+            "room1": "room|2",
+            "wall0": "wall|2|0.00|0.00|0.00|8.13",
+            "wall1": "wall|exterior|0.00|0.00|0.00|8.13",
+            "assetId": "Doorway_3",
+            "openable": false,
+            "openness": 0,
+            "holePolygon": [
+                {
+                    "x": 1.380818096436084,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 2.4052633917699464,
+                    "y": 2.09014630317688,
+                    "z": 0
+                }
+            ],
+            "assetPosition": {
+                "x": 1.8945459578926571,
+                "y": 1.04507315158844,
+                "z": 0
+            }
+        }
+    ],
+    "windows": [
+        {
+            "id": "window|2|0",
+            "assetId": "Window_Bay_1",
+            "room0": "room|2",
+            "room1": "room|2",
+            "wall0": "wall|2|0.00|8.13|6.10|8.13",
+            "wall1": "wall|exterior|0.00|8.13|6.10|8.13",
+            "holePolygon": [
+                {
+                    "x": 4.320048050314254,
+                    "y": 0.8690668940544128,
+                    "z": 0
+                },
+                {
+                    "x": 5.652716235548324,
+                    "y": 2.11711984872818,
+                    "z": 0
+                }
+            ],
+            "assetPosition": {
+                "x": 4.990354472130603,
+                "y": 1.5,
+                "z": 0
+            }
+        }
+    ],
+    "metadata": {
+        "agent": {
+            "position": {
+                "x": 1.5,
+                "y": 0.95,
+                "z": 5.25
+            },
+            "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+            },
+            "standing": true,
+            "horizon": 30
+        },
+        "roomSpecId": "living-room",
+        "schema": "1.0.0",
+        "warnings": {},
+        "agentPoses": {
+            "arm": {
+                "position": {
+                    "x": 1.5,
+                    "y": 0.95,
+                    "z": 5.25
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 270,
+                    "z": 0
+                },
+                "standing": true,
+                "horizon": 30
+            },
+            "default": {
+                "position": {
+                    "x": 1.5,
+                    "y": 0.95,
+                    "z": 5.25
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 270,
+                    "z": 0
+                },
+                "standing": true,
+                "horizon": 30
+            },
+            "locobot": {
+                "position": {
+                    "x": 1.5,
+                    "y": 0.95,
+                    "z": 5.25
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 270,
+                    "z": 0
+                },
+                "horizon": 30
+            },
+            "stretch": {
+                "position": {
+                    "x": 1.5,
+                    "y": 0.95,
+                    "z": 5.25
+                },
+                "rotation": {
+                    "x": 0,
+                    "y": 270,
+                    "z": 0
+                },
+                "standing": true,
+                "horizon": 30
+            }
+        }
+    },
+    "init_position": {
+        "x": 1.5,
+        "y": 0.9009997844696045,
+        "z": 5.25
+    },
+    "init_rotation": {
+        "x": -0.0,
+        "y": 270.0,
+        "z": 0.0
+    },
+    "instruction": "Place the pencil on the dresser.",
+    "task_goal": "on_Pencil_Dresser_None",
+    "task_type": "pick_and_place_simple"
+}

@@ -1,0 +1,280 @@
+{
+   "Vegan":{
+    "negative_food":[
+        {
+            "assetId": "8cae4836dee146a3bf514df559a02fbd",
+            "id": "AlmondCroissant"
+        },
+        {
+            "assetId": "0bde65b53e054946be9e6b31e5193ae3",
+            "id": "BakedPacificSaury"
+        },
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "953ec99e510542b489d4cce969a83d43",
+            "id": "BeefPattyCheeseBurger"
+        },
+        {
+            "assetId": "925577b90bd74ef08f41f22d2a357e63",
+            "id": "BeefSteak"
+        },
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "58a96f8687ed4191b3056ade760943a3",
+            "id": "BiscuitBox"
+        },
+        {
+            "assetId": "87855e84175c4461bf634e20dd60a263",
+            "id": "CheeseCake"
+        },
+        {
+            "assetId": "a166087409db4c59b3d35fceff17a8c5",
+            "id": "ChickenBreastCan"
+        },
+        {
+            "assetId": "1422444a7f5047468a27c1fc45787801",
+            "id": "ChocolateDonut"
+        },
+        {
+            "assetId": "0bce27dab9a3497587c27c5324a6ddd3",
+            "id": "FriedChickenLeg"
+        },
+        {
+            "assetId": "571cce9dd5754e87a71d1295632fbfa6",
+            "id": "GalicShirimpWithCornsBowl"
+        },
+        {
+            "assetId": "128080e8c99f473e949b38f0ccfd0f82",
+            "id": "GrainBarYogurtBerries"
+        },
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "083ff96cb80043e2847a95675c2986d0",
+            "id": "MackerelCanned"
+        },
+        {
+            "assetId": "a15dfe55dd964f728050a0c1aeab6447",
+            "id": "McNugget"
+        },
+        {
+            "assetId": "26e8bf806c4c4d9fa58fdff3e33d26c8",
+            "id": "NutsPie"
+        },
+        {
+            "assetId": "2088b8a02ecc41df8f282d20b41bb288",
+            "id": "OctopusSalad"
+        },
+        {
+            "assetId": "ef7b406812ff44dca514eb7e2a7627d0",
+            "id": "Pizza"
+        },
+        {
+            "assetId": "4256cb215da54681bc63b2742be119be",
+            "id": "RawOysters"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "23b173f04ffe4e48b1eb1c0566d7ab75",
+            "id": "SalmonCanned"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        },
+        {
+            "assetId": "c7085eba6e204c9ea3b45e8bec7a82ad",
+            "id": "SashimiShirimpTunaRedSnapper"
+        },
+        {
+            "assetId": "3ac22dc04c5748669e7d1f8002a74ca0",
+            "id": "StrawberryCake"
+        },
+        {
+            "assetId": "eadc9424f7ed46d698dba6144ee34325",
+            "id": "StrawberryIcecream"
+        },
+        {
+            "assetId": "ad982e9e808542249809f55f3c1df657",
+            "id": "TunnaCanned"
+        }
+    ],
+    "negative_drink":[
+        {
+            "assetId": "2f38d75f18bf4e908cd83b4fb85b522d",
+            "id": "MilkShakeStrawberry"
+        },
+        {
+            "assetId": "a7b83075c7c445e7aecb05f5af491af7",
+            "id": "Milk"
+        },
+        {
+            "assetId": "9146eb43193c47f0afee92b8d319b3c3",
+            "id": "ZeroFatMilk"
+        },
+        {
+            "assetId": "9bbcdc63cb7c44d6bb4236e33f324c21",
+            "id": "ReducedFatMilk"
+        },
+        {
+            "assetId": "0344e4be3f9f47db808d48558bfdc1f4",
+            "id": "BubbleTeaIced"
+        },
+        {
+            "assetId": "bac2033a82584d868d6c16a926645a11",
+            "id": "Yakult"
+        },
+        {
+            "assetId": "b7859b4980a840248db03df22799a962",
+            "id": "FlatWhiteLatte"
+        },
+        {
+            "assetId": "6af1546dc1154a098299b3e3585cb79a",
+            "id": "GreenTeaLatte"
+        }
+    ]
+   },
+   "LactoOvoVegetarian":{
+    "negative_food":[
+        {
+            "assetId": "0bde65b53e054946be9e6b31e5193ae3",
+            "id": "BakedPacificSaury"
+        },
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "953ec99e510542b489d4cce969a83d43",
+            "id": "BeefPattyCheeseBurger"
+        },
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "925577b90bd74ef08f41f22d2a357e63",
+            "id": "BeefSteak"
+        },
+        {
+            "assetId": "a166087409db4c59b3d35fceff17a8c5",
+            "id": "ChickenBreastCan"
+        },
+        {
+            "assetId": "0bce27dab9a3497587c27c5324a6ddd3",
+            "id": "FriedChickenLeg"
+        },
+        {
+            "assetId": "a15dfe55dd964f728050a0c1aeab6447",
+            "id": "McNugget"
+        },
+        {
+            "assetId": "571cce9dd5754e87a71d1295632fbfa6",
+            "id": "GalicShirimpWithCornsBowl"
+        },
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "083ff96cb80043e2847a95675c2986d0",
+            "id": "MackerelCanned"
+        },
+        {
+            "assetId": "2088b8a02ecc41df8f282d20b41bb288",
+            "id": "OctopusSalad"
+        },
+        {
+            "assetId": "ef7b406812ff44dca514eb7e2a7627d0",
+            "id": "Pizza"
+        },
+        {
+            "assetId": "4256cb215da54681bc63b2742be119be",
+            "id": "RawOysters"
+        },
+        {
+            "assetId": "c7085eba6e204c9ea3b45e8bec7a82ad",
+            "id": "SashimiShirimpTunaRedSnapper"
+        },
+        {
+            "assetId": "23b173f04ffe4e48b1eb1c0566d7ab75",
+            "id": "SalmonCanned"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "ad982e9e808542249809f55f3c1df657",
+            "id": "TunnaCanned"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        }
+    ],
+    "negative_drink":[
+    ]
+   },
+   "PescoVegetarian":{
+    "negative_food":[
+        {
+            "assetId": "70cf8d97d8b54ff8971bee59ec23505b",
+            "id": "BeefMeatloafCan"
+        },
+        {
+            "assetId": "953ec99e510542b489d4cce969a83d43",
+            "id": "BeefPattyCheeseBurger"
+        },
+        {
+            "assetId": "925577b90bd74ef08f41f22d2a357e63",
+            "id": "BeefSteak"
+        },
+        {
+            "assetId": "7ca1446ba8ab4132baed64dbeb56c33f",
+            "id": "BeefTomatoPastaCan"
+        },
+        {
+            "assetId": "a166087409db4c59b3d35fceff17a8c5",
+            "id": "ChickenBreastCan"
+        },
+        {
+            "assetId": "0bce27dab9a3497587c27c5324a6ddd3",
+            "id": "FriedChickenLeg"
+        },
+        {
+            "assetId": "a15dfe55dd964f728050a0c1aeab6447",
+            "id": "McNugget"
+        },
+        {
+            "assetId": "7f207bacacd04ac88c54babf487ae570",
+            "id": "HotDogBeansSoupCan"
+        },
+        {
+            "assetId": "ef7b406812ff44dca514eb7e2a7627d0",
+            "id": "Pizza"
+        },
+        {
+            "assetId": "cdfcdef7cfda4ee2bf6f83b362e51004",
+            "id": "SPAM"
+        },
+        {
+            "assetId": "e3f59218222043d19d70c8544152d244",
+            "id": "SandwitchBLT"
+        }
+    ],
+    "negative_drink":[
+    ]
+   }
+}
